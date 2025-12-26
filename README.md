@@ -7,13 +7,13 @@ I’m a passionate Information Technology student at Bharati Vidyapeeth’s Coll
 🤔 I’m looking for help with Advanced Machine Learning techniques and Cloud Technologies
 💬 Ask me about Python, Web Development, CNN models, Facial Recognition systems
 📫 How to reach me: https://www.linkedin.com/in/someshwari-choudhari
-⚡ Fun fact: I’m a cricket champion and carrom runner-up! I believe sports teach the same teamwork and strategy skills needed in coding 🏏🎯
+⚡ Fun fact: I’m a cricket champion and carrom runner-up! I believe sports teach the same teamwork and strategy skills needed in coding 
 
 🌐 Socials:
 LinkedIn [Mastodon](https://mastodon.social/@someshwari choudhari) email
 
 💻 Tech Stack:
-C C++ Java JavaScript HTML5 PHP Windows Terminal Python Bash Script Firebase AWS Azure Angular CodeCov Portfolio Testing-Library Vitest Git GitHub Actions GitHub Matplotlib Keras NumPy Pandas TensorFlow scikit-learn Scipy ApacheCassandra MongoDB MySQL Postgres Canva Figma Invision Adobe Lightroom Apache Apache Maven WordPress SASS Express.js Flutter FastAPI .Net Anaconda Angular.js Google Cloud
+C C++ Java JavaScript HTML5 PHP Windows Terminal Python Bash Script Firebase AWS Azure Angular CodeCov Portfolio Testing-Library Vitest Git GitHub GitHub Matplotlib Keras NumPy Pandas TensorFlow scikit-learn Scipy ApacheCassandra MongoDB MySQL Postgres Canva Figma Invision Adobe Lightroom Apache Apache Maven WordPress SASS Express.js Flutter FastAPI .Net Anaconda Angular.js Google Cloud
 
 
 

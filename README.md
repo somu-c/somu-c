@@ -1,4 +1,4 @@
-💫 About Me:
+
 I’m a passionate Information Technology student at Bharati Vidyapeeth’s College of Engineering for Women, Pune, with a strong foundation in computer engineering and a deep interest in software development and machine learning.
 🎓 Currently pursuing Bachelor of Engineering in Information Technology (CGPA: 8.8/10)
 🔭 I’m currently working on Machine Learning projects and Full-Stack Web Development
